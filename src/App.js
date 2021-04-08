@@ -110,8 +110,8 @@ class App extends Component {
                 <li title="email" className="link" onClick={() => {this.clickedEmail()}}><a href="mailto:mail@ronniewhite.io">mail@ronniewhite.io</a></li>
                 <li title="github" className="mobile github" onClick={() => {this.clickedEmail()}}><a href="https://github.com/ronnie-white" target="_blank" rel="noopener noreferrer"></a></li>
                 <li title="github" className="link" onClick={() => {this.clickedGithub()}}><a href="https://github.com/ronnie-white" target="_blank" rel="noopener noreferrer">github</a></li>
-                <li title="linkedin" className="mobile linkedin" onClick={() => {this.clickedEmail()}}><a href="www.linkedin.com/in/ronnie-white" target="_blank" rel="noopener noreferrer"></a></li>
-                <li title="linkedin" className="link" onClick={() => {this.clickedLinkedIn()}}><a href="www.linkedin.com/in/ronnie-white" target="_blank" rel="noopener noreferrer">linkedin</a></li>
+                <li title="linkedin" className="mobile linkedin" onClick={() => {this.clickedEmail()}}><a href="https://linkedin.com/in/ronnie-white" target="_blank" rel="noopener noreferrer"></a></li>
+                <li title="linkedin" className="link" onClick={() => {this.clickedLinkedIn()}}><a href="https://linkedin.com/in/ronnie-white" target="_blank" rel="noopener noreferrer">linkedin</a></li>
                 <li title="resume" className="mobile resume" onClick={() => {this.clickedEmail()}}><a href={process.env.PUBLIC_URL+ '/resume.pdf#zoom=50'} target="_blank" rel="noopener noreferrer"></a></li>
                 <li title="resume" className="link" onClick={() => {this.clickedResume()}}><a href={process.env.PUBLIC_URL+ '/resume.pdf#zoom=50'} target="_blank" rel="noopener noreferrer">resume</a></li>
               </ul>
