@@ -103,7 +103,7 @@ class App extends Component {
             <div className="header-wrapper">
               <div className="title">
                 <h1>Ronnie White</h1>
-                <h3>Front End Developer</h3>
+                <h3>Software Developer</h3>
               </div>
               <ul className="contact">
                 <li title="email" className="mobile email" onClick={() => {this.clickedEmail()}}><a href="mailto:mail@ronniewhite.io"></a></li>

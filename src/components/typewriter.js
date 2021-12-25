@@ -19,12 +19,12 @@ class Typewriter extends Component {
   texts=[{
     id: 1,
     ref: 'AATLAS', 
-    text: 'While working with AATLAS I used responsive web designs and development principles to build stable software. I collaborated closely with the program to provide support during all phases of delivery.' ,
+    text: 'While working with AATLAS  I collaborated closely with the program to provide support during all phases of delivery to build a responsive, dynamic website optimized for smartphones and tablets.' ,
     link: 'https://aatlased.org/',
   }, {
     id: 2,
     ref: 'SUNY Albany',
-    text: ' B.A. in Computer Science and Minor in Informatics.* I am determined to have a positive impact by transforming how people consume and comprehend web content.',
+    text: ' B.A. in Computer Science and Minor in Informatics.',
     link: 'https://www.albany.edu/',
   }, {
     id: 3,
@@ -34,7 +34,7 @@ class Typewriter extends Component {
   }, {
     id: 4,
     ref: 'ronnie-white.io/',
-    text: 'My personal website has animations and is responsive. On it you can find links to my projects, Github and LinkedIn',
+    text: 'My personal website built with React.js. On it you can find links to my projects, Github and LinkedIn',
     link: 'https://ronnie-white.io/',
   }, {
     id: 5,
@@ -56,7 +56,7 @@ class Typewriter extends Component {
   {
     id: 0,
     ref: 'default',
-    text: 'Hi, my name is Ronnie.* I am a Front end developer based in Seattle.* Please click any of the links to learn more about me.',
+    text: 'Hi, my name is Ronnie.* I am a software developer based in Troy, NY.* Please click any of the links to learn more about me.',
     link: '',
   }
 
