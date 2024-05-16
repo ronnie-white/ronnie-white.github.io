@@ -21,8 +21,8 @@ class App extends Component {
                 <h3>Full Stack Developer</h3>
               </div>
               <ul className="contact">
-                <li title="email" className="mobile email" onClick={() => {this.clickedEmail()}}><a href="mailto:mail@ronniewhite.io"></a></li>
-                <li title="email" className="link" onClick={() => {this.clickedEmail()}}><a href="mailto:mail@ronniewhite.io">mail@ronniewhite.io</a></li>
+                <li title="email" className="mobile email" onClick={() => {this.clickedEmail()}}><a href="mailto:ronishawhite@gmail.com"></a></li>
+                <li title="email" className="link" onClick={() => {this.clickedEmail()}}><a href="mailto:ronishawhite@gmail.com">ronishawhite@gmail.com</a></li>
                 <li title="github" className="mobile github" onClick={() => {this.clickedEmail()}}><a href="https://github.com/ronnie-white" target="_blank" rel="noopener noreferrer"></a></li>
                 <li title="github" className="link" onClick={() => {this.clickedGithub()}}><a href="https://github.com/ronnie-white" target="_blank" rel="noopener noreferrer">github</a></li>
                 <li title="linkedin" className="mobile linkedin" onClick={() => {this.clickedEmail()}}><a href="https://linkedin.com/in/ronnie-white" target="_blank" rel="noopener noreferrer"></a></li>

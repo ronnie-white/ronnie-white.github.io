@@ -14,7 +14,7 @@ class References extends Component {
       date: 'Jun 2022 to Present',
       title: 'Research Foundation CUNY',
       detail: 'Full Stack Developer',
-      tools: ['HTML', 'CSS', 'JS', 'JQuery','MSSQL','Cold Fusion', 'ReactJS']
+      tools: ['HTML', 'CSS', 'Javascript', 'JQuery','SQL','.NET', 'C#', 'ReactJS']
     },
 
  {
