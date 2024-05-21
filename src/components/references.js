@@ -38,7 +38,7 @@ class References extends Component {
   {
     id: 4,
     date: 'Aug 2016 - May 2020',
-    title: 'Bachelor of Arts',
+    title: 'Bachelor of Science',
     detail: 'University at Albany ',
     tools: ['Computer Science Major', 'Informatics Minor']
   }, 
